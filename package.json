@@ -1,0 +1,19 @@
+{
+  "name": "copopoko",
+  "version": "0.0.0",
+  "description": "Copopoko",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com//binarymax/copopoko.git"
+  },
+  "keywords": [
+    "copo",
+    "poko",
+    "game",
+    "three"
+  ],
+  "author": "binarymax",
+  "license": "None",
+  "private": true
+}
